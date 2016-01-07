@@ -7,3 +7,6 @@ You can play the game at: http://githubschool.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+I am making a change to this file..
+{animal:[dog,cat,mouse]}
+here is additional text
